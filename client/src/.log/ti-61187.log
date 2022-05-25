@@ -1,0 +1,32 @@
+[08:15:14.550] Global cache location '/Users/book/Library/Caches/typescript/4.5', safe file path '/users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typingsafelist.json', types map path /users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typesmap.json
+[08:15:14.551] Processing cache location '/Users/book/Library/Caches/typescript/4.5'
+[08:15:14.551] Trying to find '/Users/book/Library/Caches/typescript/4.5/package.json'...
+[08:15:14.551] Finished processing cache location '/Users/book/Library/Caches/typescript/4.5'
+[08:15:14.551] Process id: 61256
+[08:15:14.551] NPM location: /opt/homebrew/Cellar/node/18.0.0/bin/npm (explicit '--npmLocation' not  provided)
+[08:15:14.551] validateDefaultNpmLocation: false
+[08:15:14.551] Npm config file: /Users/book/Library/Caches/typescript/4.5/package.json
+[08:15:14.551] Updating types-registry npm package...
+[08:15:14.552] Exec: /opt/homebrew/Cellar/node/18.0.0/bin/npm install --ignore-scripts types-registry@latest
+[08:15:14.555]     Failed. stdout:
+    stderr:
+    /bin/sh: /opt/homebrew/Cellar/node/18.0.0/bin/npm: No such file or directory
+    
+[08:15:14.555] Updated types-registry npm package
+[08:15:14.555] Types registry file '/Users/book/Library/Caches/typescript/4.5/node_modules/types-registry/index.json' does not exist
+[08:15:16.205] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/Charts.js","/Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/ContractField.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src","kind":"discover"}
+[08:15:16.213] Loaded safelist from types map file '/users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typesmap.json'
+[08:15:16.213] Explicitly included types: []
+[08:15:16.214] Inferred typings from unresolved imports: []
+[08:15:16.214] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/bower_components","/Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/node_modules"]}
+[08:15:16.214] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/bower_components","/Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/node_modules"]}
+[08:15:16.214] DirectoryWatcher:: Added:: WatchInfo: /Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/bower_components
+[08:15:16.214] DirectoryWatcher:: Added:: WatchInfo: /Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[08:15:16.215] Elapsed:: 0.3562920093536377ms DirectoryWatcher:: Added:: WatchInfo: /Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[08:15:16.215] DirectoryWatcher:: Added:: WatchInfo: /Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/node_modules
+[08:15:16.215] DirectoryWatcher:: Added:: WatchInfo: /Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[08:15:16.215] Elapsed:: 0.034790992736816406ms DirectoryWatcher:: Added:: WatchInfo: /Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[08:15:16.215] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[08:15:16.215] Response has been sent.
+[08:15:16.215] No new typings were requested as a result of typings discovery

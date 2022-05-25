@@ -1,0 +1,20 @@
+Info 0    [08:15:14.428] Starting TS Server
+Info 1    [08:15:14.431] Version: 4.5.5
+Info 2    [08:15:14.431] Arguments: /opt/homebrew/Cellar/node/18.0.0/bin/node /Users/book/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/tsserver.js --logFile /Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/1d/jc_yz2xx6h79p642zbz9dwjm0000gn/T/a184d8ff0413bbbedd1a0054f5e3052b/tscancellation*
+Info 3    [08:15:14.431] Platform: darwin NodeVersion: 18 CaseSensitive: false
+Info 4    [08:15:14.431] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [08:15:14.438] Format host information updated
+Info 6    [08:15:14.919] Search path: /Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src
+Info 7    [08:15:14.920] For info: /Users/book/novusshu@gmail.com - Google Drive/My Drive/projects/fl-eth/client/src/ContractField.js :: No config files found.
+Info 8    [08:15:14.922] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [08:15:15.927] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 1005.6357080042362ms
+Info 10   [08:15:15.927] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [08:15:15.927] 	Files (523)
+
+Info 12   [08:15:15.928] -----------------------------------------------
+Info 13   [08:15:15.940] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 14   [08:15:16.202] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 261.9724580049515ms
+Info 15   [08:15:16.202] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 16   [08:15:16.202] 	Files (80)
+
+Info 17   [08:15:16.202] -----------------------------------------------
